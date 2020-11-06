@@ -7,5 +7,6 @@ namespace GitTutorial.Models
 {
     public class Wozki
     {
+        // mój komentarz
     }
 }
