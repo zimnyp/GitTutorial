@@ -5,8 +5,7 @@ using System.Web;
 
 namespace GitTutorial.Models
 {
-    public class Wozki
+    public class Damian
     {
-        // mój komentarz
     }
 }
